@@ -1,4 +1,4 @@
-## Hey there
+## Hey there 👋🏼
 
 I'm Muhammed. I'm from Iraq and currently living in Spain, studying Computer Engineering. I focus on backend development, automation, and building self-hosted systems.
 I’m obsessed with writing clean, reliable, and performant code that stays organized and scales without problems.
