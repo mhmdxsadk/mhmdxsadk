@@ -1,4 +1,4 @@
-## Muhammed
+## Muhammed Sadik
 
 Iraqi Computer Engineering student based in Madrid, building backend systems, automation workflows, and self-hosted infrastructure.  
 
