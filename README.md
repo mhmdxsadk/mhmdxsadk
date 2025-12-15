@@ -1,9 +1,7 @@
-## Hey there 👋🏼
+## Muhammed
 
-I'm Muhammed. I'm from Iraq and currently living in Spain, studying Computer Engineering. I focus on backend development, automation, and building self-hosted systems.
-I’m obsessed with writing clean, reliable, and performant code that stays organized and scales without problems.
+Iraqi Computer Engineering student based in Madrid, building backend systems, automation workflows, and self-hosted infrastructure.  
+Primarily working in Python on services and internal tools, learning through designing, running, and iterating on real systems.
 
-Right now I'm working on backend services, internal tools, and infrastructure projects that help me understand how things actually work under the hood.
-
-## Tools & Technologies I Use
-Python, FastAPI, PostgreSQL, Docker, Proxmox, Git, Linux, Tailscale, n8n, and anything that helps me build and ship clean systems.
+## Stack
+Python | PostgreSQL | Docker | Proxmox | Linux | Git | n8n
